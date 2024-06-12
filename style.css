@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.index-body{
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: palevioletred;
+}
+
+h1{
+    text-align: center;
+}
+
+.recipes-body{
+    background-color: beige;
+}
+
+p{
+    color:darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul{
+    color:brown;
+}
+
+ol{
+    color:violet;
+}
